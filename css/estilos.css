@@ -1,0 +1,82 @@
+
+*{
+padding: 0;
+	
+}
+
+body{
+	background:url(../img/fondo.jpg); 
+    font-family: Verdana;
+    font-size: 100%;
+    font-weight: bold;
+
+}
+
+
+h1{
+	text-align: right;
+color: #FFA500;
+}
+
+h3{
+color:#FFA500;
+} 
+header  {
+	display: flex;
+	
+    width: 85%;
+
+    margin:1.5% auto;
+    max-width: 900px;
+    color: #708090;
+}
+
+
+.redes{
+    overflow: hidden;
+	width: 85%;
+    float: right;
+    max-width: 1000px;
+    margin: auto;
+
+
+}
+
+
+.titulos { 
+border: 1px solid silver;
+background: #E6E6FA
+
+}
+
+.tit{
+	border: 1px solid #00FFFF;
+background: #E6E6FA;
+color: #FFA500;
+	width: 60%;
+	margin: auto;
+}
+
+.red{
+	float: left;
+	color: #708090;
+}
+
+.p{
+	overflow: hidden;
+	color: #708090;
+	width: 60%;
+	margin: auto;
+}
+
+
+
+
+.foto{
+	width: 50%
+	float: right;
+	overflow: hidden;
+	border-radius: 50%;
+	box-shadow: 3px 5px 5px 5px #E6E6FA;
+}
+
